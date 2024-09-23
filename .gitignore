@@ -1,0 +1,23 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Visual Studio files
+.vs/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+logs/
