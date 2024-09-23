@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJUIllMAAsQ=",
+  "dgSpecHash": "6fectjmYUmg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonanyu\\Desktop\\EspolNet\\TestAPI\\TestAPI.csproj",
+  "projectFilePath": "C:\\Users\\Jonanyu\\Desktop\\ESNetApi\\TestAPI\\TestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonanyu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Jonanyu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

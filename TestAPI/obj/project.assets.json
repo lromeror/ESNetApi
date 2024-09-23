@@ -8160,11 +8160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonanyu\\Desktop\\EspolNet\\TestAPI\\TestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Jonanyu\\Desktop\\ESNetApi\\TestAPI\\TestAPI.csproj",
       "projectName": "TestAPI",
-      "projectPath": "C:\\Users\\Jonanyu\\Desktop\\EspolNet\\TestAPI\\TestAPI.csproj",
+      "projectPath": "C:\\Users\\Jonanyu\\Desktop\\ESNetApi\\TestAPI\\TestAPI.csproj",
       "packagesPath": "C:\\Users\\Jonanyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonanyu\\Desktop\\EspolNet\\TestAPI\\obj\\",
+      "outputPath": "C:\\Users\\Jonanyu\\Desktop\\ESNetApi\\TestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonanyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
